@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143031588933",
+    "firebase_url": "https://ci360-e71a6.firebaseio.com",
+    "project_id": "ci360-e71a6",
+    "storage_bucket": "ci360-e71a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143031588933:android:26882d1e9117804ce32b2c",
+        "android_client_info": {
+          "package_name": "com.example.ci360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143031588933-flshq16hro0b2vb229foa3sdsolfs9g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ci360",
+            "certificate_hash": "f4255add8d2b617ea645f89dd9fbcbef3fc16c82"
+          }
+        },
+        {
+          "client_id": "143031588933-j5jg0co5uo6lnvdeepabdn5prdhckajb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZUPIqJRsUk1lgNhSbkmCj6m93nMSEXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143031588933-j5jg0co5uo6lnvdeepabdn5prdhckajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
